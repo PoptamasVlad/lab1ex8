@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\popta\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\popta\\.nuget\\packages"
+    ]
+  }
+}
